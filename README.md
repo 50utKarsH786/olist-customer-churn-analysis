@@ -23,7 +23,7 @@ e-commerce orders using RFM segmentation and Machine Learning.
 - Trained Logistic Regression & Random Forest churn model
 - Generated 4 business insight visualizations
 
-## Results
+##Results
 | Model | Accuracy | AUC |
 |---|---|---|
 | Logistic Regression | 75% | ~0.83 |
